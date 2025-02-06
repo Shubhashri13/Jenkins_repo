@@ -9,6 +9,7 @@ public class PollScmTest
 	public void scmPoll()
 	{
 		Reporter.log("PollScm executed",true);
+		Reporter.log("applications",true);
 	}
 
 }
